@@ -1,0 +1,10 @@
+# Simple Python code to print and take user input
+
+# Print a message
+print("Hello, World!")
+
+# Take user input
+name = input("What's your names..? ")
+
+# Print a greeting with the user's name
+print(f"Nice to meet you, {name}!")
